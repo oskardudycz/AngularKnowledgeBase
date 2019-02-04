@@ -24,6 +24,10 @@ Various links and resources about Angular best practices
 
 [Tomas Trajan - The Ultimate Answer To The Very Common Angular Question: subscribe() vs | async Pipe](https://blog.angularindepth.com/angular-question-rxjs-subscribe-vs-async-pipe-in-component-templates-c956c8c0c794)
 
+[Luuk Gruijs - Understanding hot vs cold Observables](https://medium.com/@luukgruijs/understanding-hot-vs-cold-observables-62d04cf92e03)
+
+[Gerard Sans - Understanding High Order Observables](https://www.youtube.com/watch?v=R0mKU8XMF-w)
+
 ## State management
 
 ### NgRx - Redux
@@ -32,6 +36,8 @@ Various links and resources about Angular best practices
 
 [Netanel Basal - Understanding mergeMap and switchMap in RxJS](https://netbasal.com/understanding-mergemap-and-switchmap-in-rxjs-13cf9c57c885)
 
-## Talks
+[Adrian Fâciu – Testing ngrx effects](https://medium.com/@adrianfaciu/testing-ngrx-effects-3682cb5d760e)
+
+## Various
 
 [Nitay Neeman - All Talks from ng-conf 2018](https://nitayneeman.com/posts/all-talks-from-ng-conf-2018/)
