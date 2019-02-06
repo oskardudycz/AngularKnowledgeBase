@@ -38,6 +38,8 @@ Various links and resources about Angular best practices
 
 [Adrian Fâciu – Testing ngrx effects](https://medium.com/@adrianfaciu/testing-ngrx-effects-3682cb5d760e)
 
+[Peleke Sengstacke - 10 Need-to-Know RxJS Functions with Examples](https://www.sitepoint.com/rxjs-functions-with-examples/)
+
 ## Various
 
 [Nitay Neeman - All Talks from ng-conf 2018](https://nitayneeman.com/posts/all-talks-from-ng-conf-2018/)
