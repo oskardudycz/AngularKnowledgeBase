@@ -28,6 +28,8 @@ Various links and resources about Angular best practices
 
 [Gerard Sans - Understanding High Order Observables](https://www.youtube.com/watch?v=R0mKU8XMF-w)
 
+[Kwinten Pisman - What are schedulers in RxJS](https://blog.strongbrew.io/what-are-schedulers-in-rxjs/)
+
 ## State management
 
 ### NgRx - Redux
