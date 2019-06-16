@@ -4,7 +4,7 @@ Various links and resources about Angular best practices
 
 ## Components Structure
 
-[Dan Ambramov - Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+[Dan Abramov - Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 
 [Jacek Tomaszewski - How to write good, composable and pure components in Angular 2+](https://medium.com/@jtomaszewski/how-to-write-good-composable-and-pure-components-in-angular-2-1756945c0f5b)
 
